@@ -1,0 +1,10 @@
+//
+//  Development.xcconfig
+//  Mobven-MovieApp
+//
+//  Created by Elif Tum on 14.06.2024.
+//
+
+// Configuration settings file format documentation can be found at:
+//
+Base_URL = https:/\/\api.themoviedb.org/3/\
